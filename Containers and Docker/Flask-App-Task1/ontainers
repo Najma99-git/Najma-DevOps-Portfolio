@@ -1,0 +1,14 @@
+# Docker Compose Practice
+
+**Objective:**  
+Practice multi-container applications using Docker Compose.
+
+**Files included:**  
+- `docker-compose.yml` → Compose file for multiple containers  
+- `README.md` → instructions  
+- `screenshots/` → images showing running containers and outputs
+
+**How to run:**  
+1. Start all containers: `docker-compose up -d`  
+2. Check running containers: `docker ps`  
+3. Stop containers: `docker-compose down`
