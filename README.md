@@ -1,3 +1,4 @@
+HEAD
 # AWS EC2 Beginner Project
 
 ## Project Overview
@@ -24,3 +25,7 @@ This project demonstrates a **basic EC2 web server setup** with NGINX.
 ### 3. Connect via SSH
 ```bash
 ssh -i ~/tango00.pem ubuntu@13.40.153.75
+=======
+# Najma-DevOps-Portfolio
+Portfolio of DevOps learning and projects
+>>>>>>> origin/Najma99-git-patch-1
