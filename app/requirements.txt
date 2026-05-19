@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Flask
 redis
+=======
+Flask==2.3.2
+redis==5.1.1
+>>>>>>> 71af5c3 (Add Flask-Redis-Demo assignment with Docker, Flask, and Redis)

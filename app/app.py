@@ -4,6 +4,10 @@ import os
 
 app = Flask(__name__)
 
+<<<<<<< HEAD
+=======
+# Redis connection
+>>>>>>> 71af5c3 (Add Flask-Redis-Demo assignment with Docker, Flask, and Redis)
 redis_host = os.environ.get('REDIS_HOST', 'redis')
 redis_port = int(os.environ.get('REDIS_PORT', 6379))
 r = redis.Redis(host=redis_host, port=redis_port, db=0)

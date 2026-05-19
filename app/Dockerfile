@@ -7,8 +7,12 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
+<<<<<<< HEAD
 EXPOSE 5000
 
 CMD ["python", "app.py"] 
 
 
+=======
+CMD ["python", "app.py"]
+>>>>>>> 71af5c3 (Add Flask-Redis-Demo assignment with Docker, Flask, and Redis)
